@@ -94,8 +94,8 @@ export default function Footer() {
         {/* Copyright */}
         <div className="mt-12 border-t border-white/10 pt-6">
           <p className="text-center text-xs leading-relaxed text-gray-500">
-            © {new Date().getFullYear()} Aprenda a Cortar Cabelo Sem Frescura.
-            Todos os direitos reservados.
+            © 2026 - Aprenda a Cortar Cabelo Sem Frescura. Todos os direitos
+            reservados.
           </p>
 
           <p className="mt-2 text-center text-xs text-gray-600">
